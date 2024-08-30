@@ -59,7 +59,7 @@
     var integratedMenuFrame = document.createElement('iframe');
     integratedMenuFrame.id = 'integratedMenuFrame';
     integratedMenuFrame.className = 'integrated-menu-iframe';
-    integratedMenuFrame.src = 'integrated-menu.html'; // Path to your integrated-menu-.html file
+    integratedMenuFrame.src = 'https://russelsese.github.io/racp-integrated-menu.github.io/integrated-menu.html'; // Path to your integrated-menu-.html file
     document.body.appendChild(integratedMenuFrame);
 
     // Toggle integrated-menu function
